@@ -1,7 +1,7 @@
 ---
 title: Deepak Nag Ayyala
 role: Assistant Professor of Biostatistics and Data Science
-avatar_filename: profile-pic_2020.jpg
+avatar_filename: avatar.jpg
 interests:
   - High dimensional statistical inference; Genomics and Epigenomics; Deep
     learning

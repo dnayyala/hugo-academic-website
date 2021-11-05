@@ -8,7 +8,7 @@ interests:
 social:
   - display:
       header: false
-    icon_pack: far
+    icon_pack: fas
     icon: github
     link: https://github.com/dnayyala
 organizations:

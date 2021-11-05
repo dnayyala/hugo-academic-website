@@ -10,7 +10,7 @@ social:
     icon_pack: fas
     link: '#contact'  # For a direct email link, use "mailto:test@example.org".
   - display:
-      header: false
+      header: true
     icon_pack: fab
     icon: github
     link: https://github.com/dnayyala

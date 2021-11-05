@@ -1,14 +1,14 @@
 ---
 title: Deepak Nag Ayyala
 role: Assistant Professor of Biostatistics and Data Science
-avatar_filename: avatar
+avatar_filename: profile-pic_2020.jpg
 interests:
   - High dimensional statistical inference; Genomics and Epigenomics; Deep
     learning
 social:
   - icon: envelope
     icon_pack: fas
-    link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+    link: "#contact"
   - icon: github
     icon_pack: fab
     link: https://github.com/dnayyala

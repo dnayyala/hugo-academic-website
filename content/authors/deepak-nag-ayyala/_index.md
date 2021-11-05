@@ -38,3 +38,6 @@ education:
 email: deepaknagayyala@gmail.com
 superuser: true
 ---
+I am an Assistant professor of Biostatistics and Data Science in the Department of Population Health Sciences at the Medical College of Georgia, Augusta University.
+
+My main research interests include high dimensional statistical inference, with applications in genomics and epigenomics. I am also interested in applying and developing deep learning methods to biomedical data sets.

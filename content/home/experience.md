@@ -25,6 +25,7 @@ experience:
     date_start = "2013-08-01"
     date_end = "2015-10-30"
     description = "PI: Shili Lin"
+-    
 widget_id: experience-job
 headless: true
 weight: 40
@@ -32,4 +33,3 @@ title: Experience
 subtitle: null
 design:
   columns: "2"
----

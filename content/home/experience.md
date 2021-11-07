@@ -2,27 +2,29 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ""
-    company_logo: org-gc
-    location: California
-    date_start: 2021-01-01
-    date_end: ""
-    description: |-2
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ""
-    company_logo: org-x
-    location: California
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title = "Assistant Professor of Biostatistics and Data Science"
+    company = "Medical College of Georgia, Augusta University"
+    company_url = ""
+    location = "Augusta, GA"
+    date_start = "2017-09-01"
+    date_end = ""
+    description = """
+    Responsibilities include:
+    """
+  - title = "Postdoctoral Associate"
+    company = "Jackson Laboratory for Genomic Medicine"
+    company_url = ""
+    location = "Hartford, Connecticut"
+    date_start = "2015-11-01"
+    date_end = "2017-08-31"
+    description = """Ouyang Lab"""
+  -  title = "Postdoctoral Researcher"
+    company = "Department of Statistics, The Ohio State University"
+    company_url = ""
+    location = "Columbus, Ohio"
+    date_start = "2013-08-01"
+    date_end = "2015-10-30"
+    description = "PI: Shili Lin"
 widget_id: experience-job
 headless: true
 weight: 40
@@ -31,16 +33,3 @@ subtitle: null
 design:
   columns: "2"
 ---
-title = "Assistant Professor of Biostatistics and Data Science"
-  company = "Medical College of Georgia, Augusta University"
-  company_url = ""
-  location = "Augusta, GA"
-  date_start = "2017-09-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-
-* Analysing
-* Modelling
-* Deploying
-  """

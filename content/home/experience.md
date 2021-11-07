@@ -19,7 +19,7 @@ experience:
     date_start: '2015-11-01'
     date_end: '2017-08-31'
     description: >-
-    Ouyang Lab
+    * Ouyang Lab
 
   - title: 'Postdoctoral Researcher'
     company: 'Department of Statistics, The Ohio State University'

@@ -32,6 +32,16 @@ experience:
     date_end: '2015-10-30'
     description: >-
     PI: Shili Lin
+    
+  - title: 'Graduate Teaching Assistant'
+    company: 'University of Maryland Baltimore County'
+    company_url: 'https://mathstat.umbc.edu/'
+    location: 'Baltimore, Maryland'
+    date_start: '2007-08-01'
+    date_end: '2013-05-31'
+    description: >-
+    * Graduate teaching assistant
+    * Part-time instructor
    
 widget_id: experience-job
 headless: true

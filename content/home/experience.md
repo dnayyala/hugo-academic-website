@@ -21,7 +21,7 @@ experience:
     description: >-
     Ouyang Lab
 
-  -  title: 'Postdoctoral Researcher'
+  - title: 'Postdoctoral Researcher'
     company: 'Department of Statistics, The Ohio State University'
     company_url: ''
     location: 'Columbus, Ohio'

@@ -11,8 +11,8 @@ experience:
     description: >-
       Tenure track assistant professor in the Division of Biostatistics and Data Science in the Department of Population Health Sciences. Responsibilities include
       
-        * Teaching graduate-level courses, advising graduate students, guiding PhD dissertations
-        * Conducting independent research in statistical methodolody, with focus on applications in genomics and other big data problems
+        * Designand teach graduate-level courses in biostatistics, train graduate students and guide PhD dissertations
+        * Conduct independent and collaborative in biostatisticswith applications in publichealth and genomics
         * Participate in university-wide committees, including Institutional Review Board (IRB)
     
 
@@ -23,10 +23,11 @@ experience:
     date_start: '2015-11-01'
     date_end: '2017-08-31'
     description: >-
-      Responsibilities include:
+      Postdoctoral associate in Ouyang Lab, worked under the supervision of Dr. Zhengqing Ouyang.
       
-        * Postdoctoral associate in Ouyang Lab, worked under the supervision of Dr. Zhengqing Ouyang
-        * Developed statistical models for RNA methylation and single-cell RNA-seq data
+        * Developed statistical models for the analysis of epigenomic and transcriptomic data
+        * Developed novel high dimensional statistical methods for the analysis of RNA methylation data to study the impact of Zika virus
+        * Studied statistical models for identifying cell-type specific genes using single-cell RNA-seq data
 
   - title: 'Postdoctoral Researcher'
     company: 'Department of Statistics, The Ohio State University'
@@ -38,7 +39,8 @@ experience:
       Postdoctoral researcher under the supervision of Dr. Shili Lin
       
         * Funded by NSF-DMS: 1220772 grant.
-        * Developed computational models for graphical representation and classification of metagenomic data.
+        * Developed statistical methods for the visualization and analysis of complex metagenomic data
+        * Developed novel statistical methods for studying differential methylation in ovarian and breast cancer
     
   - title: 'Graduate Teaching Assistant'
     company: 'University of Maryland Baltimore County'

@@ -11,6 +11,7 @@ experience:
     description = """
     Responsibilities include:
     """
+-
   - title = "Postdoctoral Associate"
     company = "Jackson Laboratory for Genomic Medicine"
     company_url = ""
@@ -18,6 +19,7 @@ experience:
     date_start = "2015-11-01"
     date_end = "2017-08-31"
     description = """Ouyang Lab"""
+-
   -  title = "Postdoctoral Researcher"
     company = "Department of Statistics, The Ohio State University"
     company_url = ""
@@ -33,3 +35,4 @@ title: Experience
 subtitle: null
 design:
   columns: "2"
+---

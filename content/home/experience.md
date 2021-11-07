@@ -42,9 +42,9 @@ experience:
     description: >-
       Responsibilities include:
       
-      * Graduate teaching assistant
-      * Part-time instructor
-      * Conducting research
+        * Graduate teaching assistant
+        * Part-time instructor
+        * Conducting research
    
 widget_id: experience-job
 headless: true

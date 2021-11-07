@@ -1,5 +1,7 @@
 ---
 widget: experience
+headless: false
+
 date_format: Jan 2006
 experience:
   - title: 'Assistant Professor of Biostatistics and Data Science'

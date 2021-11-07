@@ -4,7 +4,7 @@ date_format: Jan 2006
 experience:
   - title = "Assistant Professor of Biostatistics and Data Science"
     company = "Medical College of Georgia, Augusta University"
-    company_url = ""
+    company_url = "https://www.augusta.edu/mcg/dphs/bds/people/deepak_ayyala.php"
     location = "Augusta, GA"
     date_start = "2017-09-01"
     date_end = ""

@@ -19,6 +19,8 @@ experience:
     date_start: '2015-11-01'
     date_end: '2017-08-31'
     description: >-
+    Responsibilities include:
+    
     * Ouyang Lab
 
   - title: 'Postdoctoral Researcher'

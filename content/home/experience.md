@@ -9,7 +9,11 @@ experience:
     date_start: '2017-09-01'
     date_end: ''
     description: >-
-    Responsibilities include:
+      Tenure track assistant professor in the Division of Biostatistics and Data Science in the Department of Population Health Sciences. Responsibilities include
+      
+        * Teaching graduate-level courses, advising graduate students, guiding PhD dissertations
+        * Conducting independent research in statistical methodolody, with focus on applications in genomics and other big data problems
+        * Participate in university-wide committees, including Institutional Review Board (IRB)
     
 
   - title: 'Postdoctoral Associate'
@@ -21,8 +25,8 @@ experience:
     description: >-
       Responsibilities include:
       
-      * Ouyang Lab
-      * Need to write more
+        * Postdoctoral associate in Ouyang Lab, worked under the supervision of Dr. Zhengqing Ouyang
+        * Developed statistical models for RNA methylation and single-cell RNA-seq data
 
   - title: 'Postdoctoral Researcher'
     company: 'Department of Statistics, The Ohio State University'
@@ -31,7 +35,10 @@ experience:
     date_start: '2013-08-01'
     date_end: '2015-10-30'
     description: >-
-    PI: Shili Lin
+      Postdoctoral researcher under the supervision of Dr. Shili Lin
+      
+        * Funded by NSF-DMS: 1220772 grant.
+        * Developed computational models for graphical representation and classification of metagenomic data.
     
   - title: 'Graduate Teaching Assistant'
     company: 'University of Maryland Baltimore County'
@@ -42,9 +49,8 @@ experience:
     description: >-
       Responsibilities include:
       
-        * Graduate teaching assistant
-        * Part-time instructor
-        * Conducting research
+        * Graduate teaching assistant for several undergraduate courses in the College of Natural and Mathematical Sciences, UMBC.
+        * Part-time instructor for upper-level undergraduate courses in summer and winter sessions
    
 widget_id: experience-job
 headless: true

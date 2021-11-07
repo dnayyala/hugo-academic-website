@@ -40,9 +40,11 @@ experience:
     date_start: '2007-08-01'
     date_end: '2013-05-31'
     description: >-
-    
-    * Graduate teaching assistant
-    * Part-time instructor
+      Responsibilities include:
+      
+      * Graduate teaching assistant
+      * Part-time instructor
+      * Conducting research
    
 widget_id: experience-job
 headless: true

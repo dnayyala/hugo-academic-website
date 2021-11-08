@@ -1,16 +1,16 @@
 ---
 title: High dimensional MANOVA using random projections
-date: '2021-01-01'
-draft: true
-publishDate: '2021-11-08T03:10:14.636469Z'
-authors:
-- D. N. Ayyala
-- V. Ong
-- D. F. Linder
 publication_types:
-- '0'
-abstract: ''
+  - "0"
+  - "3"
+authors:
+  - deepak-nag-ayyala
+  - V. Ong
+  - D. F. Linder
+publication: ""
+abstract: ""
+draft: true
 featured: false
-publication: ''
+date: 2021-01-01
+publishDate: 2021-11-08T03:10:14.636469Z
 ---
-

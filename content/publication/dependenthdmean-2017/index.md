@@ -19,7 +19,7 @@ abstract: When testing for the mean vector in a high-dimensional setting, it is
   Limit Theorem for M-dependent processes using two-dimensional triangular
   arrays. The cost of ignoring dependence among observations is assessed in
   finite samples through simulations.
-draft: true
+draft: false
 url_pdf: https://www.sciencedirect.com/science/article/pii/S0047259X16300999
 featured: false
 tags:
@@ -29,5 +29,5 @@ tags:
   - '"Dependent data"'
   - '"Mean vector testing"'
 date: 2017-01-01
-publishDate: 2021-11-08T03:10:10.398949Z
+publishDate: 2021-11-08T03:10:10.398Z
 ---

@@ -2,7 +2,7 @@
 title: Penalized Dirichlet-multinomial models for feature selection in
   metagenomic data
 publication_types:
-  - "2"
+  - "3"
 authors:
   - deepak-nag-ayyala
   - S. Lin

@@ -19,8 +19,8 @@ authors:
 doi: https://doi.org/10.1007/s12561-016-9145-0
 publication: "*Statistics in Biosciences*"
 abstract: ""
-draft: true
+draft: false
 featured: false
 date: 2016-01-01
-publishDate: 2021-11-08T03:10:10.538074Z
+publishDate: 2021-11-08T03:10:10.538Z
 ---

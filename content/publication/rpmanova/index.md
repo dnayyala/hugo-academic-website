@@ -1,7 +1,6 @@
 ---
 title: High dimensional MANOVA using random projections
 publication_types:
-  - "0"
   - "3"
 authors:
   - deepak-nag-ayyala
@@ -9,8 +8,8 @@ authors:
   - D. F. Linder
 publication: ""
 abstract: ""
-draft: true
+draft: false
 featured: false
 date: 2021-01-01
-publishDate: 2021-11-08T03:10:14.636469Z
+publishDate: 2021-11-08T03:10:14.636Z
 ---

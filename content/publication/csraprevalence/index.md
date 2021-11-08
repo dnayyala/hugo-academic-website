@@ -1,23 +1,22 @@
 ---
-title: Estimated Community Seroprevalence of COVID-19 in the Central Savannah River
-  Area (CSRA), May 26 – June 12, 2020
-date: '2021-01-01'
-draft: true
-publishDate: '2021-11-08T03:10:13.014065Z'
-authors:
-- B. Siddiqui
-- R. W. Gibson
-- D. N. Ayyala
-- C. Hamilton
-- M. Farrough
-- A. Osborn
-- V. Burkhalter
-- A. Chao
-- J. Vazquez
+title: Estimated Community Seroprevalence of COVID-19 in the Central Savannah
+  River Area (CSRA), May 26 – June 12, 2020
 publication_types:
-- '2'
-abstract: ''
+  - "3"
+authors:
+  - B. Siddiqui
+  - R. W. Gibson
+  - deepak-nag-ayyala
+  - C. Hamilton
+  - M. Farrough
+  - A. Osborn
+  - V. Burkhalter
+  - A. Chao
+  - J. Vazquez
+publication: "*submitted*"
+abstract: ""
+draft: true
 featured: false
-publication: '*submitted*'
+date: 2021-01-01
+publishDate: 2021-11-08T03:10:13.014065Z
 ---
-

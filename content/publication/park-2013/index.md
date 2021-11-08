@@ -14,7 +14,7 @@ abstract: In this paper, we consider the problem of testing the mean vector in
   proposed test under weaker conditions than Srivastava (2009). We also present
   numerical studies including simulations and a real example of microarray data
   with comparison to existing tests developed for a large p and small n problem.
-draft: true
+draft: false
 url_pdf: https://www.sciencedirect.com/science/article/pii/S0378375812003424
 featured: false
 tags:
@@ -23,5 +23,5 @@ tags:
   - '"Testing mean vector"'
   - '"Scalar transform invariant test"'
 date: 2013-01-01
-publishDate: 2021-11-08T03:10:10.999905Z
+publishDate: 2021-11-08T03:10:10.999Z
 ---

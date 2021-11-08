@@ -29,9 +29,9 @@ abstract: DNA methylation is a well-established epigenetic mark, whose pattern
   test to use. We illustrate the superiority of mean vector tests in detecting
   cancer-related canonical gene pathways, which are significantly enriched for
   acute myeloid leukemia and ovarian cancer.
-draft: true
+draft: false
 url_pdf: https://doi.org/10.1093/bib/bbv089
 featured: false
 date: 2015-01-01
-publishDate: 2021-11-08T03:10:10.682776Z
+publishDate: 2021-11-08T03:10:10.682Z
 ---

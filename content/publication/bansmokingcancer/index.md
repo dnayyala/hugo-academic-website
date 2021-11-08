@@ -1,16 +1,15 @@
 ---
-title: 'Cigarette Smoking after Surviving Breast Cancer: A Pilot Study'
-date: '2021-01-01'
-draft: true
-publishDate: '2021-11-08T03:10:13.921845Z'
-authors:
-- B. Majeed
-- D. N. Ayyala
-- S. S. Coughlin
+title: "Cigarette Smoking after Surviving Breast Cancer: A Pilot Study"
 publication_types:
-- '2'
-abstract: ''
+  - "2"
+authors:
+  - B. Majeed
+  - deepak-nag-ayyala
+  - S. S. Coughlin
+publication: "*Current Cancer Reports*"
+abstract: ""
+draft: false
 featured: false
-publication: '*Current Cancer Reports*'
+date: 2021-01-01
+publishDate: 2021-11-08T03:10:13.921845Z
 ---
-

@@ -8,6 +8,7 @@ authors:
   - B. Majeed
   - L. Cortes
   - G. Kapuku
+doi: 10.31487/j.CDM.2020.01.01
 publication: "*Cardiovascular Disorder and Medicine*"
 abstract: ""
 draft: false

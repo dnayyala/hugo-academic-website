@@ -3,7 +3,7 @@ title: "Chapter 6 - High-dimensional statistical inference: Theoretical
   development to data analytics"
 subtitle: ""
 publication_types:
-  - "5"
+  - "6"
 authors:
   - deepak-nag-ayyala
 doi: https://doi.org/10.1016/bs.host.2020.02.003
@@ -33,5 +33,5 @@ tags:
   - '"Hypothesis testing"'
   - '"Dependent data"'
 date: 2020-01-01
-publishDate: 2021-11-08T03:10:12.429523Z
+publishDate: 2021-11-08T03:10:12.429Z
 ---

@@ -15,8 +15,8 @@ authors:
 doi: 10.14309/ajg.0000000000000766
 publication: "*The American Journal of Gastroenterology*"
 abstract: ""
-draft: true
+draft: false
 featured: false
 date: 2021-01-01
-publishDate: 2021-11-08T03:10:11.287534Z
+publishDate: 2021-11-08T03:10:11.287Z
 ---

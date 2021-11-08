@@ -1,19 +1,18 @@
 ---
 title: Orthopaedic Trauma Trends During Covid-19 Epidemic
-date: '2021-01-01'
-draft: true
-publishDate: '2021-11-08T03:10:14.777593Z'
-authors:
-- J. C. Gibbs
-- C. J. Boatman
-- B. D. Sookhoo
-- D. N. Ayyala
-- S. A. Parada
-- J. A. Blair
 publication_types:
-- '2'
-abstract: ''
+  - "2"
+authors:
+  - J. C. Gibbs
+  - C. J. Boatman
+  - B. D. Sookhoo
+  - deepak-nag-ayyala
+  - S. A. Parada
+  - J. A. Blair
+publication: "*submitted*"
+abstract: ""
+draft: true
 featured: false
-publication: '*submitted*'
+date: 2021-01-01
+publishDate: 2021-11-08T03:10:14.777593Z
 ---
-

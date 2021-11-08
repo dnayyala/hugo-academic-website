@@ -2,7 +2,6 @@
 title: "786 – Home Biofeedback Therapy with Novel Device Versus Office
   Biofeedback Therapy for Fecal Incontinence: Randomized Controlled Study"
 publication_types:
-  - "2"
   - "1"
 authors:
   - A. Sharma
@@ -15,8 +14,8 @@ authors:
   - S. S. C. Rao
 publication: "*Gastroenterology*"
 abstract: ""
-draft: true
+draft: false
 featured: false
 date: 2019-01-01
-publishDate: 2021-11-08T03:10:12.002161Z
+publishDate: 2021-11-08T03:10:12.002Z
 ---

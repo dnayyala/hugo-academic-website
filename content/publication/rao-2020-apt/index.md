@@ -12,6 +12,7 @@ authors:
   - R. Parr
   - deepak-nag-ayyala
   - A. Sharma
+doi: https://doi.org/10.1111/apt.15772
 publication: "*Alimentary Pharmacology & Therapeutics*"
 abstract: ""
 draft: true

@@ -7,10 +7,11 @@ authors:
   - deepak-nag-ayyala
   - M. Tingen
   - J. E. Cortes
+doi: https://doi.org/10.25082/CCR.2020.01.004
 publication: "*Current Cancer Reports*"
 abstract: ""
-draft: true
+draft: false
 featured: false
 date: 2020-01-01
-publishDate: 2021-11-08T03:10:11.569781Z
+publishDate: 2021-11-08T03:10:11.569Z
 ---

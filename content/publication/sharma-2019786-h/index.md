@@ -1,22 +1,22 @@
 ---
-title: '786 – Home Biofeedback Therapy with Novel Device Versus Office Biofeedback
-  Therapy for Fecal Incontinence: Randomized Controlled Study'
-date: '2019-01-01'
-draft: true
-publishDate: '2021-11-08T03:10:12.002161Z'
-authors:
-- A. Sharma
-- X. Xiang
-- Y. Yan
-- Tanisa Patcharatrakul
-- Rachael Parr
-- A. Herekar
-- D. N. Ayyala
-- S. S. C. Rao
+title: "786 – Home Biofeedback Therapy with Novel Device Versus Office
+  Biofeedback Therapy for Fecal Incontinence: Randomized Controlled Study"
 publication_types:
-- '2'
-abstract: ''
+  - "2"
+  - "1"
+authors:
+  - A. Sharma
+  - X. Xiang
+  - Y. Yan
+  - Tanisa Patcharatrakul
+  - Rachael Parr
+  - A. Herekar
+  - deepak-nag-ayyala
+  - S. S. C. Rao
+publication: "*Gastroenterology*"
+abstract: ""
+draft: true
 featured: false
-publication: '*Gastroenterology*'
+date: 2019-01-01
+publishDate: 2021-11-08T03:10:12.002161Z
 ---
-

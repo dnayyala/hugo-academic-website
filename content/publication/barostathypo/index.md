@@ -11,10 +11,11 @@ authors:
   - T. Patcharatrakul
   - J. Valestin
   - deepak-nag-ayyala
+doi: https://doi.org/10.1111/nmo.14226
 publication: "*Neurogastroenterology and Motility*"
 abstract: ""
 draft: true
 featured: false
 date: 2021-01-01
-publishDate: 2021-11-08T03:10:15.208971Z
+publishDate: 2021-11-08T03:10:15.208Z
 ---

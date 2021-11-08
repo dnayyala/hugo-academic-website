@@ -11,10 +11,11 @@ authors:
   - A. Sharma
   - deepak-nag-ayyala
   - S. Hamdy
+doi: https://doi.org/10.1111/ner.13485
 publication: "*Neuromodulation: Technology at the Neural Interface*"
 abstract: ""
 draft: true
 featured: false
 date: 2021-01-01
-publishDate: 2021-11-08T03:10:13.616579Z
+publishDate: 2021-11-08T03:10:13.616Z
 ---

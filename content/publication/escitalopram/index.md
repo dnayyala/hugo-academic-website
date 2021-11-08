@@ -10,10 +10,11 @@ authors:
   - A. Erdogan
   - J. Valestin
   - deepak-nag-ayyala
+doi: "https://doi: 10.14309/ctg.0000000000000381"
 publication: "*Clinical and Translational Gastroenterology*"
 abstract: ""
 draft: true
 featured: false
 date: 2021-01-01
-publishDate: 2021-11-08T03:10:13.162194Z
+publishDate: 2021-11-08T03:10:13.162Z
 ---

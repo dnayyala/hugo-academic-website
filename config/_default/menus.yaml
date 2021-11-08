@@ -13,7 +13,7 @@ main:
   - name: Publications
     url: '#publications'
     weight: 50
-  - name: Talks/Workshops
+  - name: Talks and Workshops
     url: '#talks'
     weight: 60
   - name: Contact

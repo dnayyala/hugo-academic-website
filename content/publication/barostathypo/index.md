@@ -1,21 +1,20 @@
 ---
-title: 'Barostat or syringe-assisted sensory biofeedback training for constipation
-  with rectal hyposensitivity: A randomized controlled trial'
-date: '2021-01-01'
-draft: true
-publishDate: '2021-11-08T03:10:15.208971Z'
-authors:
-- S. S. C. Rao
-- Y. Yan
-- E. Erdogan
-- E. Coss-Adame
-- T. Patcharatrakul
-- J. Valestin
-- D. N. Ayyala
+title: "Barostat or syringe-assisted sensory biofeedback training for
+  constipation with rectal hyposensitivity: A randomized controlled trial"
 publication_types:
-- '2'
-abstract: ''
+  - "2"
+authors:
+  - S. S. C. Rao
+  - Y. Yan
+  - E. Erdogan
+  - E. Coss-Adame
+  - T. Patcharatrakul
+  - J. Valestin
+  - deepak-nag-ayyala
+publication: "*Neurogastroenterology and Motility*"
+abstract: ""
+draft: true
 featured: false
-publication: '*Neurogastroenterology and Motility*'
+date: 2021-01-01
+publishDate: 2021-11-08T03:10:15.208971Z
 ---
-

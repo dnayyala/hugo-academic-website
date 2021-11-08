@@ -34,8 +34,8 @@ abstract: Resting State Network (RSN) analysis investigates spontaneous brain
   significantly affect the test of reproducibility of the network. Once the
   analysis is adjusted for confounders, the findings reaffirm the conventional
   wisdom about reproducibility of RSN.
-draft: true
+draft: false
 featured: false
 date: 2018-01-01
-publishDate: 2021-11-08T03:10:10.252783Z
+publishDate: 2021-11-08T03:10:10.252Z
 ---

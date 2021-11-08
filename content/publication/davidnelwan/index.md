@@ -1,18 +1,18 @@
 ---
-title: How Race and Prior Medical Interactions Impact Time to Presentation for Genital
-  Pain in Pediatric Males
-date: '2021-01-01'
-draft: true
-publishDate: '2021-11-08T03:10:14.353222Z'
-authors:
-- D. Nelwan
-- K. Fratino
-- D. N. Ayyala
-- B. A. Morganstern
+title: How Race and Prior Medical Interactions Impact Time to Presentation for
+  Genital Pain in Pediatric Males
 publication_types:
-- '2'
-abstract: ''
+  - "2"
+  - "3"
+authors:
+  - D. Nelwan
+  - K. Fratino
+  - deepak-nag-ayyala
+  - B. A. Morganstern
+publication: "*submitted*"
+abstract: ""
+draft: true
 featured: false
-publication: '*submitted*'
+date: 2021-01-01
+publishDate: 2021-11-08T03:10:14.353222Z
 ---
-

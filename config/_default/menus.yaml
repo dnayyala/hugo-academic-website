@@ -12,15 +12,15 @@ main:
     weight: 20
   - name: Publications
     url: '#publications'
-    weight: 50
+    weight: 30
   - name: Talks and Workshops
     url: '#talks'
-    weight: 60
+    weight: 40
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 50
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
  - name: CV
    url: uploads/deepaknag_ayyala_cv.pdf
-   weight: 70
+   weight: 60

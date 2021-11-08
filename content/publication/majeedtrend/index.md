@@ -11,8 +11,8 @@ authors:
 publication: "*Virtual Poster Session at Canadian Society for Epidemiology and
   Biostatistics Annual Meeting*"
 abstract: ""
-draft: true
+draft: false
 featured: false
 date: 2021-01-01
-publishDate: 2021-11-08T03:10:13.767710Z
+publishDate: 2021-11-08T03:10:13.767Z
 ---

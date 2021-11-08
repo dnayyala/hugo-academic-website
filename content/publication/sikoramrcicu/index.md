@@ -1,18 +1,17 @@
 ---
-title: 'Meaningful metrics: medication regimen complexity for critical care pharmacist
-  workload'
-date: '2021-01-01'
-draft: true
-publishDate: '2021-11-08T03:10:14.067972Z'
-authors:
-- A. S. Newsome
-- D. N. Ayyala
-- S. Blackwell
-- et al.
+title: "Meaningful metrics: medication regimen complexity for critical care
+  pharmacist workload"
 publication_types:
-- '2'
-abstract: ''
+  - "3"
+authors:
+  - A. S. Newsome
+  - deepak-nag-ayyala
+  - S. Blackwell
+  - et al.
+publication: "*submitted*"
+abstract: ""
+draft: true
 featured: false
-publication: '*submitted*'
+date: 2021-01-01
+publishDate: 2021-11-08T03:10:14.067972Z
 ---
-

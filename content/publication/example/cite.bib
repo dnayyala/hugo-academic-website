@@ -1,8 +1,380 @@
-@inproceedings{example1,
-  title={An example conference paper},
-  author={Bighetti, Nelson and Ford, Robert},
-  booktitle={Source Themes Conference},
-  pages={1--6},
-  year={2013},
-  organization={IEEE}
+% Encoding: UTF-8
+
+@Article{cramp,
+  author        = {Ayyala, D. N. and Ghosh, S. and Linder, D. F.},
+  title         = {{Covariance matrix testing in high dimension using random projections}},
+  journal       = {to appear in Computational Statistics},
+  year          = {2021},
+  archiveprefix = {arXiv},
+  eprint        = {2011.08282},
+  primaryclass  = {stat.ME},
 }
+
+@Article{dimer,
+  author  = {Ayyala, D. N. and Lin, J. and Ouyang, Z.},
+  title   = {{Differential RNA methylation using multivariate statistical methods}},
+  journal = {{to appear in Briefings in Bioinformatics}},
+  year    = {2021},
+  doi     = {https://doi.org/10.1093/bib/bbab309},
+}
+
+@Article{ghosh2020twosample,
+  author        = {Ghosh, S. and Ayyala, D. N. and Hellebuyck, R.},
+  title         = {{Two-Sample High Dimensional Mean Test Based On Prepivots}},
+  journal       = {Computational Statistics and Data Analysis},
+  year          = {2021},
+  volume        = {163},
+  archiveprefix = {arXiv},
+  eprint        = {2003.06455},
+  primaryclass  = {stat.ME},
+}
+
+@Misc{cho2019note,
+  author        = {Cho, S. and Lim, J. and Ayyala, D. N. and Park, J. and Roy, A.},
+  title         = {{Note on Mean Vector Testing for High-Dimensional Dependent Observations}},
+  year          = {2019},
+  archiveprefix = {arXiv},
+  eprint        = {1904.09344},
+  primaryclass  = {math.ST},
+}
+
+@Article{restingstatenetwork,
+  author    = {Ayyala, D. N. and Roy, A. and Park, J. and Gullapalli, R. P.},
+  title     = {{Adjusting for Confounders in Cross-correlation Analysis: an Application to Resting State Networks}},
+  journal   = {Sankhya B},
+  year      = {2018},
+  volume    = {80},
+  number    = {1},
+  pages     = {123--150},
+  issn      = {0976-8386},
+  abstract  = {Resting State Network (RSN) analysis investigates spontaneous brain activity when the brain is not subjected to any external stimuli. The interest in RSN analysis lies primarily in understanding the interaction between different brain regions that occur while the brain is “at rest”, i.e., not prompted by external tasks. The network of brain regions involved and their activity during the resting state has been found to be consistent across broad population and thus could be helpful in identifying aberrations in individual brains or effects of particular adverse events. Testing for functional consistency in RSN requires analysis of time series patterns for multiple time series signal emanating from the different brain regions. An approach for studying reproducibility is testing for stability in the cross-correlations function of the multiple time series signal. However, often the testing procedures do not adequately account for the temporal dependence in the signal and may lead to erroneous conclusion, particularly in the presence of confounder such as scan-to-scan and visit-to-visit variation. In this article, we develop a general paradigm for testing for such confounder in the cross-correlation analysis. Merit of the proposal is demonstrated via simulation and the proposed test is shown to have reasonable type I error and power under a variety of dependence structures for the multivariate signals. The methodology is then applied to the motivating data set involving a motor network and it is shown that unless properly controlled, confounders can significantly affect the test of reproducibility of the network. Once the analysis is adjusted for confounders, the findings reaffirm the conventional wisdom about reproducibility of RSN.},
+  day       = {1},
+  doi       = {10.1007/s13571-017-0138-x},
+  language  = {English (US)},
+  publisher = {Springer India},
+}
+
+@Article{dependenthdmean2017,
+  author   = {Ayyala, D. N. and Park, J. and Roy, A.},
+  title    = {{Mean vector testing for high-dimensional dependent observations}},
+  journal  = {Journal of Multivariate Analysis},
+  year     = {2017},
+  volume   = {153},
+  pages    = {136--155},
+  abstract = {When testing for the mean vector in a high-dimensional setting, it is generally assumed that the observations are independently and identically distributed. However if the data are dependent, the existing test procedures fail to preserve type I error at a given nominal significance level. We propose a new test for the mean vector when the dimension increases linearly with sample size and the data is a realization of an M-dependent stationary process. The order M is also allowed to increase with the sample size. Asymptotic normality of the test statistic is derived by extending the Central Limit Theorem for M-dependent processes using two-dimensional triangular arrays. The cost of ignoring dependence among observations is assessed in finite samples through simulations.},
+  doi      = {https://doi.org/10.1016/j.jmva.2016.09.012},
+  keywords = {High-dimension, Asymptotic normality, Triangular array, Dependent data, Mean vector testing},
+  url      = {https://www.sciencedirect.com/science/article/pii/S0047259X16300999},
+}
+
+@Article{reviewpaper2016,
+  author  = {Qin, Z. and Li, B. and Conneely, K. N. and Wu, H. and Hu, M. and Ayyala, D. N. and Park, Y. and Jin, V. X. and Zhang, F. and Zhang, H. and Li, L. and Lin, S.},
+  title   = {{Statistical Challenges in Analyzing Methylation and Long-Range Chromosomal Interaction Data}},
+  journal = {Statistics in Biosciences},
+  year    = {2016},
+  volume  = {8},
+  number  = {2},
+  pages   = {284--309},
+  issn    = {1867-1764},
+}
+
+@Article{diffmeth2015,
+  author   = {Ayyala, D. N. and Frankhouser, D. E. and Ganbat, J. and Marcucci, G. and Bundschuh, R. and Yan, P. and Lin, S.},
+  title    = {{Statistical methods for detecting differentially methylated regions based on MethylCap-seq data}},
+  journal  = {Briefings in Bioinformatics},
+  year     = {2015},
+  volume   = {17},
+  number   = {6},
+  pages    = {926--937},
+  issn     = {1467-5463},
+  abstract = {{DNA methylation is a well-established epigenetic mark, whose pattern throughout the genome, especially in the promoter or CpG islands, may be modified in a cell at a disease stage. Recently developed probabilistic approaches allow distributing methylation signals at nucleotide resolution from MethylCap-seq data. Standard statistical methods for detecting differential methylation suffer from ‘curse of dimensionality’ and sparsity in signals, resulting in high false-positive rates. Strong correlation of signals between CG sites also yields spurious results. In this article, we review applicability of high-dimensional mean vector tests for detection of differentially methylated regions (DMRs) and compare and contrast such tests with other methods for detecting DMRs. Comprehensive simulation studies are conducted to highlight the performance of these tests under different settings. Based on our observation, we make recommendations on the optimal test to use. We illustrate the superiority of mean vector tests in detecting cancer-related canonical gene pathways, which are significantly enriched for acute myeloid leukemia and ovarian cancer.}},
+  doi      = {10.1093/bib/bbv089},
+  eprint   = {https://academic.oup.com/bib/article-pdf/17/6/926/8280081/bbv089.pdf},
+  url      = {https://doi.org/10.1093/bib/bbv089},
+}
+
+@Article{Grammr,
+  author   = {Ayyala, D. N. and Lin, S.},
+  title    = {{GrammR: graphical representation and modeling of count data with application in metagenomics}},
+  journal  = {{Bioinformatics}},
+  year     = {2015},
+  volume   = {31},
+  number   = {10},
+  pages    = {1648-1654},
+  issn     = {1367-4803},
+  abstract = {{Motivation: Microbiota compositions have great implications in human health, such as obesity and other conditions. As such, it is of great importance to cluster samples or taxa to visualize and discover community substructures. Graphical representation of metagenomic count data relies on two aspects, measure of dissimilarity between samples/taxa and algorithm used to estimate coordinates to study microbiota communities. UniFrac is a dissimilarity measure commonly used in metagenomic research, but it requires a phylogenetic tree. Principal coordinate analysis (PCoA) is a popular algorithm for estimating two-dimensional (2D) coordinates for graphical representation, although alternative and higher-dimensional representations may reveal underlying community substructures invisible in 2D representations.Results: We adapt a new measure of dissimilarity, penalized Kendall’s τ-distance, which does not depend on a phylogenetic tree, and hence more readily applicable to a wider class of problems. Further, we propose to use metric multidimensional scaling (MDS) as an alternative to PCoA for graphical representation. We then devise a novel procedure for determining the number of clusters in conjunction with PAM (mPAM). We show superior performances with higher-dimensional representations. We further demonstrate the utility of mPAM for accurate clustering analysis, especially with higher-dimensional MDS models. Applications to two human microbiota datasets illustrate greater insights into the subcommunity structure with a higher-dimensional analysis.Availability and implementation: GrammR is implemented as an R-package available at http://www.stat.osu.edu/∼statgen/SOFTWARE/GrammR/. It may also be downloaded from http://cran.rproject.org/web/packages/GrammR/.Contact: shili@stat.osu.eduSupplementary information:Supplementary data are available at Bioinformatics online.}},
+  doi      = {10.1093/bioinformatics/btv032},
+  eprint   = {https://academic.oup.com/bioinformatics/article-pdf/31/10/1648/17085691/btv032.pdf},
+  url      = {https://doi.org/10.1093/bioinformatics/btv032},
+}
+
+@Article{Park2013,
+  author   = {Park, J. and Ayyala, D. N.},
+  title    = {{A test for the mean vector in large dimension and small samples}},
+  journal  = {Journal of Statistical Planning and Inference},
+  year     = {2013},
+  volume   = {143},
+  number   = {5},
+  pages    = {929--943},
+  issn     = {0378-3758},
+  abstract = {In this paper, we consider the problem of testing the mean vector in the multivariate setting where the dimension p is greater than the sample size n, namely a large p and small n problem. We propose a new scalar transform invariant test and show the asymptotic null distribution and power of the proposed test under weaker conditions than Srivastava (2009). We also present numerical studies including simulations and a real example of microarray data with comparison to existing tests developed for a large p and small n problem.},
+  doi      = {https://doi.org/10.1016/j.jspi.2012.11.001},
+  keywords = {Asymptotic distribution, High dimension, Testing mean vector, Scalar transform invariant test},
+  url      = {https://www.sciencedirect.com/science/article/pii/S0378375812003424},
+}
+
+@Article{whiteside2019,
+  author  = {Whiteside, H. and Nagabandi, A. and Brown, K. and Ayyala, D. N. and Sharma, G.},
+  title   = {{Prevalence and clinical characteristics associated with left atrial thrombus detection: Apixaban}},
+  journal = {Journal of the American College of Cardiology},
+  year    = {2019},
+  volume  = {11},
+  number  = {2},
+  pages   = {84--93},
+  doi     = {10.1016/S0735-1097(19)31025-3},
+}
+
+@Article{raoajg2021,
+  author  = {Rao, S. S. C. and Xiang, X. and Sharma, A. and Patcharatrakul, T. and Yan, Y. and Parr, R. and Ayyala, D. N. and Hamdy, S.},
+  title   = {{Translumbosacral Neuromodulation Therapy for Fecal Incontinence: A Randomized Frequency Response Trial}},
+  journal = {The American Journal of Gastroenterology},
+  year    = {2021},
+  volume  = {116},
+  number  = {1},
+  pages   = {162--170},
+  issn    = {0002-9270},
+  doi     = {10.14309/ajg.0000000000000766},
+}
+
+@Article{rao2020apt,
+  author  = {Rao, S. S. C. and Xiang, X. and Yan, Y. and Rattanakovit, K. and Patcharatrakul, T. and Parr, R. and Ayyala, D. N. and Sharma, A.},
+  title   = {{Randomised clinical trial: linaclotide vs placebo—a study of bi-directional gut and brain axis}},
+  journal = {Alimentary Pharmacology \& Therapeutics},
+  year    = {2020},
+  volume  = {51},
+  number  = {12},
+  pages   = {1332--1341},
+}
+
+@Article{coughlindistress,
+  author  = {Coughlin, S. C. and Ayyala, D. N. and Tingen, M. and Cortes, J. E.},
+  title   = {{Financial distress among breast cancer survivors}},
+  journal = {Current Cancer Reports},
+  year    = {2020},
+  volume  = {2020},
+  number  = {1},
+  pages   = {48--53},
+}
+
+@Article{survivors2020,
+  author  = {Coughlin, S. C. and Ayyala, D. N. and Majeed, B. and Cortes, L. and Kapuku, G.},
+  title   = {{Cardiovascular Disease among Breast Cancer Survivors}},
+  journal = {Cardiovascular Disorder and Medicine},
+  year    = {2020},
+  volume  = {2},
+  number  = {1},
+}
+
+@Article{bermanabstract,
+  author  = {Berman, A. E. and Horde, G. H. and Gopal, A. and Maddux, P. T. and Ayyala, D. N.},
+  title   = {{Abstract 11492: Recurrence of Atrial Fibrillation Following Pulmonary Vein Isolation: Development of a Multivariate Predictive Model Using Real-world Data}},
+  journal = {{Circulation}},
+  year    = {2019},
+  volume  = {140},
+  number  = {Suppl\_1},
+  doi     = {10.1161/circ.140.suppl\_1.11492},
+}
+
+@Article{Sharma2019786H,
+  author  = {A. Sharma and X. Xiang and Y. Yan and Tanisa Patcharatrakul and Rachael Parr and A. Herekar and Ayyala, D. N. and S. S. C. Rao},
+  title   = {{786 – Home Biofeedback Therapy with Novel Device Versus Office Biofeedback Therapy for Fecal Incontinence: Randomized Controlled Study}},
+  journal = {{Gastroenterology}},
+  year    = {2019},
+  volume  = {156},
+}
+
+@Article{RAO2020S76,
+  author  = {Rao, S. S.. C. and Yan, Y. and Coss-Adame, E. and Erdogan, A. and Patcharatrakul, T. and Valestin, J. and Ayyala, D. N.},
+  title   = {{406 - Barostat Assisted Sensory Adaptation Training For IBS And Rectal Hypersensitivity: Randomized Controlled Trial}},
+  journal = {{Gastroenterology}},
+  year    = {2020},
+  volume  = {158},
+  number  = {6, Supplement 1},
+  pages   = {S-76},
+  issn    = {0016-5085},
+  doi     = {https://doi.org/10.1016/S0016-5085(20)30872-6},
+  url     = {https://www.sciencedirect.com/science/article/pii/S0016508520308726},
+}
+
+@Article{WAN2019S354,
+  author  = {Wan, Q. and Yan, Y. and Xiang, X. and Sharma, A. and Patcharatrakul, T. and Rattanakovit, K. and Ayyala, D. N. and Rao, S. S. C.},
+  title   = {{Sa1652 – Towards an Optimal Tool for Assessment of Fecal Incontinence (FI) Severity and Therapeutic Responsiveness}},
+  journal = {{Gastroenterology}},
+  year    = {2019},
+  volume  = {156},
+  number  = {6, Supplement 1},
+  pages   = {S-354},
+  issn    = {0016-5085},
+  doi     = {https://doi.org/10.1016/S0016-5085(19)37719-4},
+  url     = {https://www.sciencedirect.com/science/article/pii/S0016508519377194},
+}
+
+@Book{AYYALA2020289,
+  title     = {{Chapter 6 - High-dimensional statistical inference: Theoretical development to data analytics}},
+  publisher = {Elsevier},
+  year      = {2020},
+  author    = {Ayyala, D. N.},
+  volume    = {43},
+  series    = {Handbook of Statistics},
+  abstract  = {In modern-day analytics, there is ever-growing need to develop statistical models to study large data sets, i.e., high-dimensional data. Between dimension reduction, asymptotics-driven methods and random projection-based methods, there are several approaches developed so far. For high-dimensional parametric models, estimation and hypothesis testing for mean and covariance matrices have been extensively studied. However, the practical implementation of these methods is fairly limited and is primarily restricted to researchers involved in high-dimensional inference. With several applied fields such as genomics, metagenomics and social networking, high-dimensional inference is a key component of big data analytics. In this chapter, a comprehensive overview of high-dimensional inference and its applications in data analytics is provided. Key theoretical developments and computational tools are presented, giving readers an in-depth understanding of challenges in big data analysis.},
+  booktitle = {Principles and Methods for Data Science},
+  doi       = {https://doi.org/10.1016/bs.host.2020.02.003},
+  issn      = {0169-7161},
+  keywords  = {Multivariate analysis, High-dimensional inference, Parametric, Asymptotics, Hypothesis testing, Dependent data},
+  pages     = {289-335},
+  url       = {https://www.sciencedirect.com/science/article/pii/S0169716120300250},
+}
+
+@Article{survivorsproblems,
+  author  = {Coughlin, S. C. and Ayyala, D. N. and Cortes, J. E.},
+  title   = {{Problems in Living among Breast Cancer Survivors}},
+  journal = {Current Cancer Reports},
+  year    = {2021},
+  volume  = {3},
+  number  = {1},
+}
+
+@Article{coughlinprostate,
+  author  = {Coughlin, S. C. and Ayyala, D. N. and Luque, J. and Moore, J. X.},
+  title   = {{Predictors of Prostate Cancer Screening among African American Men Seen at an Academic Medical Center in the Southern United States}},
+  journal = {Current Cancer Reports},
+  year    = {2021},
+  volume  = {3},
+  number  = {1},
+}
+
+@Conference{covidruralurban,
+  author    = {Hamilton, C. A. and Ayyala, D. N. and Walsh, D. and Bramwell, C. and Walker, C. and Dib, R. W. and Gosse, J. and Ladak, A. and Morrissette, P. and Rao, A. S. R. S. and Chao, A. and Vazquez, J.},
+  title     = {{Small Towns, Big Cities: Rural and Urban Disparities among Hospitalized Patients with COVID-19 in the Central Savannah River Area}},
+  booktitle = {Infectious Diseases Week},
+  year      = {2021},
+}
+
+@Article{csraprevalence,
+  author  = {Siddiqui, B. and Gibson, R. W. and Ayyala, D. N. and Hamilton, C. and Farrough, M. and Osborn, A. and Burkhalter, V. and Chao, A. and Vazquez, J.},
+  title   = {{Estimated Community Seroprevalence of COVID-19 in the Central Savannah River Area (CSRA), May 26 – June 12, 2020}},
+  journal = {submitted},
+  year    = {2021},
+}
+
+@Article{escitalopram,
+  author  = {Rao, S. S. C. and Coss-Adame, E. and Yan, Y. and Erdogan, A. and Valestin, J. and Ayyala, D. N.},
+  title   = {{Sensory Adaptation Training or Escitalopram for IBS with Constipation and Rectal Hypersensitivity: Randomized Controlled Trial}},
+  journal = {{Clinical and Translational Gastroenterology}},
+  year    = {2021},
+  volume  = {12},
+  number  = {7},
+}
+
+@Article{homevsoffice,
+  author  = {Xiang, X. and Sharma, A. and Patcharatrakul, T. and Yan, Y. and Parr, R. and Ayyala, D. N. and Rao, S. S. C.},
+  title   = {{Randomized Controlled Trial of Home Biofeedback Therapy versus Office Biofeedback Therapy for Fecal Incontinence}},
+  journal = {Neurogastroenterology and Motility},
+  year    = {2021},
+  doi     = {https://doi.org/10.1111/nmo.14168},
+}
+
+@Article{coughlindiabetes,
+  author  = {Coughlin, S. C. and Ayyala, D. N.},
+  title   = {{Symptoms associated with comorbid diabetes among breast cancer survivors}},
+  journal = {Breast Cancer Research and Treatment},
+  year    = {2021},
+  doi     = {https://doi.org/10.1007/s10549-021-06324-2},
+}
+
+@Article{tntgutbrain,
+  author  = {Rao, S. S. C. and Yun, Y. and Xiang, X. and Sharma, A. and Ayyala, D. N. and Hamdy, S.},
+  title   = {{Effects of Translumbosacral Neuromodulation Therapy on Gut and Brain Interactions and Anorectal Neuropathy in Fecal Incontinence: A Randomized Study}},
+  journal = {{Neuromodulation: Technology at the Neural Interface}},
+  year    = {2021},
+  volume  = {accepted},
+}
+
+@Conference{majeedtrend,
+  author    = {Majeed, B. and Walsh, D. and Ayyala, D. N. and Hatzigeorgiou, C.},
+  title     = {{Trends in hospitalization rates of lab-confirmed COVID-19 adults at a large academic health center in the U.S. March-August 2020}},
+  booktitle = {Virtual Poster Session at Canadian Society for Epidemiology and Biostatistics Annual Meeting},
+  year      = {2021},
+}
+
+@Article{bansmokingcancer,
+  author  = {Majeed, B. and Ayyala, D. N. and Coughlin, S. S.},
+  title   = {{Cigarette Smoking after Surviving Breast Cancer: A Pilot Study}},
+  journal = {Current Cancer Reports},
+  year    = {2021},
+  volume  = {3},
+  number  = {1},
+  pages   = {124--127},
+}
+
+@Article{sikoramrcicu,
+  author  = {Newsome, A. S. and Ayyala, D. N. and Blackwell, S. and et al.},
+  title   = {{Meaningful metrics: medication regimen complexity for critical care pharmacist workload}},
+  journal = {submitted},
+  year    = {2021},
+}
+
+@Article{coughlincommed2021,
+  author  = {Coughlin, S. S. and Ayyala, D. N. and et al.},
+  title   = {{A Health Survey of African American Men Seen at an Academic Medical Center in the Southern United States}},
+  journal = {Journal of Community Medicine},
+  year    = {2021},
+  volume  = {4},
+  number  = {1},
+}
+
+@Article{davidnelwan,
+  author  = {Nelwan, D. and Fratino, K. and Ayyala, D. N. and Morganstern, B. A.},
+  title   = {{How Race and Prior Medical Interactions Impact Time to Presentation for Genital Pain in Pediatric Males}},
+  journal = {submitted},
+  year    = {2021},
+}
+
+@Misc{choiayyala2021,
+  author = {Choi, B. N. and Ayyala, D. N.},
+  title  = {{Inference for high-dimensional Dirichlet distributions using random projections}},
+  year   = {2021},
+}
+
+@Misc{rpmanova,
+  author = {Ayyala, D. N. and Ong, V. and Linder, D. F.},
+  title  = {{High dimensional MANOVA using random projections}},
+  year   = {2021},
+}
+
+@Article{orthopediccovid,
+  author  = {Gibbs, J. C. and Boatman, C. J. and Sookhoo, B. D. and Ayyala, D. N. and Parada, S. A. and Blair, J. A.},
+  title   = {{Orthopaedic Trauma Trends During Covid-19 Epidemic}},
+  journal = {submitted},
+  year    = {2021},
+}
+
+@Misc{ayyalalin2022,
+  author = {Ayyala, D. N. and Lin, S.},
+  title  = {{Penalized Dirichlet-multinomial models for feature selection in metagenomic data}},
+  year   = {2022},
+}
+
+@Misc{ayyalaouyang2022,
+  author = {Ayyala, D. N. and Ouyang, Z.},
+  title  = {{Penalized models for simultaneous cell-type detection and feature selection in single-cell RNA-Seq data}},
+  year   = {2022},
+}
+
+@Article{barostathypo,
+  author  = {Rao, S. S. C. and Yan, Y. and Erdogan, E. and Coss-Adame, E. and Patcharatrakul, T. and Valestin, J. and Ayyala, D. N.},
+  title   = {{Barostat or syringe-assisted sensory biofeedback training for constipation with rectal hyposensitivity: A randomized controlled trial}},
+  journal = {Neurogastroenterology and Motility},
+  year    = {2021},
+}
+

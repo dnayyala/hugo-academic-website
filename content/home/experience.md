@@ -58,7 +58,7 @@ experience:
    
 widget_id: experience-job
 headless: true
-weight: 40
+weight: 30
 title: Experience
 subtitle: null
 design:

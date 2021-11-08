@@ -2,7 +2,6 @@
 title: How Race and Prior Medical Interactions Impact Time to Presentation for
   Genital Pain in Pediatric Males
 publication_types:
-  - "2"
   - "3"
 authors:
   - D. Nelwan

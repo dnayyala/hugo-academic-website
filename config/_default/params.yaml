@@ -4,6 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
+active: false
 
 theme: minimal
 day_night: true

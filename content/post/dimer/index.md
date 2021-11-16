@@ -2,7 +2,7 @@
 title: Dimer
 subtitle: Dimer (not to be confused with the chemical molecule) stands for
   Differential Methylation of RNA transcripts.
-date: 2021-11-16T04:45:20.130Z
+date: 2021-11-16T04:52:04.707Z
 summary: Package available at https://github.com/jiananlin/DIMER
 draft: false
 featured: false

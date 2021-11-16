@@ -2,7 +2,7 @@
 title: PREPR
 subtitle: Pre-pivoting root based test statistic for comparing mean vectors of
   two populations in high dimensional data sets.
-date: 2021-11-16T04:48:14.337Z
+date: 2020-11-02T04:48:14.337Z
 summary: Package available at https://github.com/dnayyala/prepr
 draft: false
 featured: false

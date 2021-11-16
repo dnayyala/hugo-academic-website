@@ -13,9 +13,9 @@ main:
   - name: Publications
     url: '#publications'
     weight: 30
-#   - name: Talks and Workshops
-#     url: '#talks'
-#     weight: 40
+  - name: Software/Packages
+    url: '#posts'
+    weight: 40
   - name: CV
     url: 'uploads/deepaknag_ayyala_cv.pdf'
     weight: 50

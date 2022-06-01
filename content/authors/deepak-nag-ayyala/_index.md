@@ -1,10 +1,9 @@
 ---
 title: Deepak Nag Ayyala
-role: Assistant Professor of Biostatistics and Data Science
+role: Biostatistician and Data Scientist
 avatar_filename: avatar.jpg
 interests:
-  - High dimensional statistical inference; Genomics and Epigenomics; Deep
-    learning
+  - High dimensional statistical inference; Genomics and Epigenomics;
 social:
   - icon: envelope
     icon_pack: fas
@@ -38,6 +37,6 @@ education:
 email: deepaknagayyala@gmail.com
 superuser: true
 ---
-I am an Assistant professor of Biostatistics and Data Science in the Department of Population Health Sciences at the Medical College of Georgia, Augusta University.
+I am a biostatistician and data scientist, interested in applying statistical methods to problems in genomics, transcriptomics and metagenomics. I worked as an Assistant professor of Biostatistics and Data Science in the Department of Population Health Sciences at the Medical College of Georgia, Augusta University.
 
 My main research interests include high dimensional statistical inference, with applications in genomics and epigenomics. I am also interested in applying and developing deep learning methods to biomedical data sets.

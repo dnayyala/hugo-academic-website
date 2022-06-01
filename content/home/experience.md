@@ -9,7 +9,7 @@ experience:
     company_url: 'https://www.augusta.edu/mcg/dphs/bds/people/deepak_ayyala.php'
     location: 'Augusta, GA'
     date_start: '2017-09-01'
-    date_end: ''
+    date_end: '2022-01-27'
     description: >-
       Tenure track assistant professor in the Division of Biostatistics and Data Science in the Department of Population Health Sciences. Responsibilities include
       

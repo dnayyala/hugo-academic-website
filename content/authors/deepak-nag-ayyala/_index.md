@@ -20,9 +20,7 @@ social:
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Deepak_Nag_Ayyala
-organizations:
-  - name: Department of Population Health Sciences Medical College of Georgia,
-      Augusta University
+organizations: []
 education:
   courses:
     - course: Ph. D. in Statistics

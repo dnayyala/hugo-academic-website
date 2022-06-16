@@ -16,7 +16,7 @@ social:
     link: https://scholar.google.com/citations?hl=en&authuser=3&user=BNI9ZzcAAAAJ
   - icon: linkedin
     icon_pack: fab
-    link: https:www.linkedin.com/in/deepak-nag-ayyala
+    link: https://www.linkedin.com/in/deepak-nag-ayyala
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Deepak_Nag_Ayyala

@@ -3,7 +3,7 @@ title: Financial distress among breast cancer survivors
 publication_types:
   - "2"
 authors:
-  - S. C. Coughlin
+  - S. S. Coughlin
   - deepak-nag-ayyala
   - M. Tingen
   - J. E. Cortes

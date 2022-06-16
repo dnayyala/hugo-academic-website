@@ -3,7 +3,7 @@ title: "Impact of Pharmacists to Improve Patient Care in the Critically Ill: A
   Large Multicenter Analysis Using Meaningful Metrics With the Medication
   Regimen Complexity-ICU (MRC-ICU)"
 publication_types:
-  - "3"
+  - "2"
 authors:
   - A. S. Newsome
   - deepak-nag-ayyala

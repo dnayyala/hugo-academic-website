@@ -4,7 +4,7 @@ title: "406 - Barostat Assisted Sensory Adaptation Training For IBS And Rectal
 publication_types:
   - "1"
 authors:
-  - S. S.. C. Rao
+  - S. S. C. Rao
   - Y. Yan
   - E. Coss-Adame
   - A. Erdogan

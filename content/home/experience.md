@@ -4,14 +4,24 @@ headless: false
 
 date_format: Jan 2006
 experience:
+
+  - title: 'Senior Manager'
+    company: 'Takeda Pharmaceuticals'
+    location: 'Augusta, GA'
+    date_start: '2022-10-06'
+    description: >-
+      Statistical and Quantitative Sciences, Oncology division
+      
+        * Provide statistical support for regulatory submissions of clinical trials
+        * Develop new statistical methodology in innovative trial design, hybrid trial analysis using real-world evidence (RWE) and high dimensional inference  
+  
   - title: 'Assistant Professor of Biostatistics and Data Science'
     company: 'Medical College of Georgia, Augusta University'
-    company_url: 'https://www.augusta.edu/mcg/dphs/bds/people/deepak_ayyala.php'
     location: 'Augusta, GA'
     date_start: '2017-09-01'
     date_end: '2022-01-27'
     description: >-
-      Tenure track assistant professor in the Division of Biostatistics and Data Science in the Department of Population Health Sciences. Responsibilities include
+      Tenure track assistant professor in the Division of Biostatistics and Data Science in the Department of Population Health Sciences. Responsibilities included
       
         * Designand teach graduate-level courses in biostatistics, train graduate students and guide PhD dissertations
         * Conduct independent and collaborative in biostatisticswith applications in publichealth and genomics

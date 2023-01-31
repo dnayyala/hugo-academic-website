@@ -1,6 +1,7 @@
 ---
 title: Deepak Nag Ayyala
-role: Biostatistician and Data Scientist
+role: Biostatistician and Data Scientist,
+  Senior Manager @ Takeda Pharmaceuticals
 avatar_filename: avatar.jpg
 interests:
   - High dimensional statistical inference; Genomics and Epigenomics;

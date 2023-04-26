@@ -14,7 +14,7 @@ authors:
   - S. S. Coughlin
   - and R. E. Elam.
 doi: " https://doi.org/10.1002/acr.25093"
-publication: Arthritis Care and Research
+publication: '"Arthritis Care and Research"'
 draft: false
 featured: false
 image:

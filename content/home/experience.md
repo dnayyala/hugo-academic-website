@@ -7,7 +7,7 @@ experience:
 
   - title: 'Senior Manager'
     company: 'Takeda Pharmaceuticals'
-    location: 'Augusta, GA'
+    location: 'Boston, MA'
     date_start: '2022-10-06'
     description: >-
       Statistical and Quantitative Sciences, Oncology division
